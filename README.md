@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://WorldLeagueCanix.github.io/west-highland-way
-- Google Sheets template https://docs.google.com/spreadsheets/d/1pd8zuvAuebAverzNk0sQWsVmaZQaLJleyqM2jpfrqQ8/edit#gid=164271551
+- Google Sheets template https://docs.google.com/spreadsheets/d/1n8VQcTrGGoWwSvPnVI5L0ETC6i9Dwj6yyIsiwJm9vPk/edit#gid=603666405
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
